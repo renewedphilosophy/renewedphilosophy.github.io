@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Mission Statement
 published: true
 ---
 ## This will be a non-academic journal

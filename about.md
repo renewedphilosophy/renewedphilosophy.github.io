@@ -2,13 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+This is a peer reviewed non-academic journal of philosophy that seeks a spirit of creative exploration in the field of knowledge.
 
-### More Information
+### Submissions
 
-A place to include any other types of information that you'd like to include about yourself.
+If you would like to submit to RenewedPhilosophy, please send an email to the address below with...
 
 ### Contact me
 
